@@ -1,6 +1,7 @@
 <h1 align="center">Olá 👋, eu sou o Davi 🤓👍</h1>
 
-- 🚀 Desenvolvedor de Software Back-end
+Desenvolvedor de Software Back-end
+
 - ✨ Atualmente sou Estagiário de Desenvolvimento no SEBRAE Minas
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na PUC
 - 💻 Aprendendo Kotlin e Android Studio
