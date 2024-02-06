@@ -5,7 +5,7 @@
 - ✨ Atualmente sou Estagiário de Desenvolvimento no SEBRAE Minas
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas na PUC
 - 💻 Aprendendo Kotlin e Android Studio
-- 👨‍💻 Programando bugs desde 2020
+- 👨‍💻 Programando bugs desde 2022
 
 Minhas habilidades técnicas incluem: Java, Spring, C#, .Net, JavaScript, Node.Js, PHP, PostreSQL, MongoDB, APIs REST, Git, GitHub.
 
