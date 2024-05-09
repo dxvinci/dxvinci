@@ -7,7 +7,7 @@
 - 💻 Aprendendo Kotlin e Android Studio
 - 👨‍💻 Programando bugs desde 2022
 
-Minhas habilidades técnicas incluem: Java EE, Spring, PHP, PostgreSQL, MongoDB, APIs REST, Git, GitHub.
+Minhas habilidades técnicas incluem: Java EE, Spring, PostgreSQL, MongoDB, APIs REST, Git, GitHub.
 
 <a href = "mailto:davirpa1@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/daviribeirop/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
