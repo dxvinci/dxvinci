@@ -3,7 +3,7 @@
 <h3>Desenvolvedor de Software Back-end</h3>
 
 - ✨ Atualmente sou Desenvolvedor Java EE na DPMG
-- 📚 Estudante no 4º Período de Análise e Desenvolvimento de Sistemas na PUC
+- 📚 Estudante no 5º Período de Análise e Desenvolvimento de Sistemas na PUC
 - 💻 Aprendendo sobre AWS e Docker
 - 👨‍💻 Programador de bugs desde 2022
 
