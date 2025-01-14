@@ -3,7 +3,7 @@
 <h3>Desenvolvedor de Software Back-end</h3>
 
 - ✨ Atualmente sou Desenvolvedor Java na Defensoria Pública de Minas Gerais
-- 📚 Estudante no 5º Período de Análise e Desenvolvimento de Sistemas na PUC
+- 📚 Formado em Análise e Desenvolvimento de Sistemas na PUC
 - 💻 Aprendendo sobre AWS e Docker
 - 👨‍💻 Programador de bugs desde 2022
 
