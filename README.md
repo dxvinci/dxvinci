@@ -1,11 +1,11 @@
 <h1>Olá 👋, eu sou o Davi 🤓👍</h1>
 <p>
-<h3>Desenvolvedor de Software Back-end</h3>
+<h3>Engenheiro de Software</h3>
 
-- ✨ Atualmente sou Desenvolvedor Java na Defensoria Pública de Minas Gerais
+- ✨ Atualmente sou Software Engineer @ [Dock](https://br.linkedin.com/company/dock-community).
 - 📚 Formado em Análise e Desenvolvimento de Sistemas na PUC
 - 💻 Aprendendo sobre AWS e Docker
-- 👨‍💻 Programador de bugs desde 2022
+- 👨‍💻 Codando bugs desde 2022
 
 Minhas habilidades técnicas incluem, mas não se limitam a: Java, Jakarta EE, Spring, PostgreSQL, MongoDB, APIs REST e Git.\
 Além de conceitos como: Clean Code, Arquitetura Microsserviços, Métodos Ágeis e Design Patterns.
